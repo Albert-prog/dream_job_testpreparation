@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dream_job_testpreparation/static/css/main.83ea1d1a.chunk.css",
+    "main.css": "/dream_job_testpreparation/static/css/main.12ef87df.chunk.css",
     "main.js": "/dream_job_testpreparation/static/js/main.6ec1ff9a.chunk.js",
     "main.js.map": "/dream_job_testpreparation/static/js/main.6ec1ff9a.chunk.js.map",
     "runtime-main.js": "/dream_job_testpreparation/static/js/runtime-main.27b3d8cd.js",
@@ -10,13 +10,13 @@
     "static/js/3.93edb6e9.chunk.js": "/dream_job_testpreparation/static/js/3.93edb6e9.chunk.js",
     "static/js/3.93edb6e9.chunk.js.map": "/dream_job_testpreparation/static/js/3.93edb6e9.chunk.js.map",
     "index.html": "/dream_job_testpreparation/index.html",
-    "static/css/main.83ea1d1a.chunk.css.map": "/dream_job_testpreparation/static/css/main.83ea1d1a.chunk.css.map",
+    "static/css/main.12ef87df.chunk.css.map": "/dream_job_testpreparation/static/css/main.12ef87df.chunk.css.map",
     "static/js/2.082dea06.chunk.js.LICENSE.txt": "/dream_job_testpreparation/static/js/2.082dea06.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.27b3d8cd.js",
     "static/js/2.082dea06.chunk.js",
-    "static/css/main.83ea1d1a.chunk.css",
+    "static/css/main.12ef87df.chunk.css",
     "static/js/main.6ec1ff9a.chunk.js"
   ]
 }
